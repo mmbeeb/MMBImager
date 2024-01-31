@@ -1,0 +1,9 @@
+Globals = 110, 110, 652, 455, Z
+CommonFile = 132, 132, 674, 477, 
+DiskTableOps = 66, 66, 608, 411, 
+ImageForm = 44, 44, 586, 389, , 22, 22, 564, 367, C
+ImportExportImages = -1, 194, 608, 539, 
+ListViewOps = 154, 154, 696, 499, 
+NewImageForm = 66, 66, 608, 411, , 132, 132, 674, 477, C
+SystemFolders = 0, 0, 542, 345, 
+AboutForm = 66, 66, 608, 411, , 22, 22, 564, 367, C
